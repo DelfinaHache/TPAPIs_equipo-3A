@@ -1,0 +1,9 @@
+D:\tp-webform-equipo-3a\Negocio\bin\Debug\Negocio.dll
+D:\tp-webform-equipo-3a\Negocio\bin\Debug\Negocio.pdb
+D:\tp-webform-equipo-3a\Negocio\bin\Debug\Dominio.dll
+D:\tp-webform-equipo-3a\Negocio\bin\Debug\Dominio.pdb
+D:\tp-webform-equipo-3a\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\tp-webform-equipo-3a\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\tp-webform-equipo-3a\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\tp-webform-equipo-3a\Negocio\obj\Debug\Negocio.dll
+D:\tp-webform-equipo-3a\Negocio\obj\Debug\Negocio.pdb
